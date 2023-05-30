@@ -1,4 +1,7 @@
-“MilknCheesenChocolatenWater”
+Milk
+Cheese
+Chocolate
+Water
 Soda
 Pastis
 Apple Juice
