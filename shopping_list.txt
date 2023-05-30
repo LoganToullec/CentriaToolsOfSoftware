@@ -1,2 +1,4 @@
 “MilknCheesenChocolatenWater”
 Soda
+Pastis
+Apple Juice
