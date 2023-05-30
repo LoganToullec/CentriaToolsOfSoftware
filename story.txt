@@ -1,0 +1,24 @@
+echo “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
+molestie faucibus iaculis. Nullam lobortis dui vel tempor malesuada. 
+Vivamus aliquam eros at diam maximus, ac scelerisque magna volutpat. 
+Quisque vel lorem non justo ultricies luctus. Integer et sem tortor. 
+Curabitur vestibulum blandit metus, in egestas est tempor a. Fusce 
+ultricies sem ac elit tincidunt maximus. Donec blandit, purus sit amet 
+laoreet eleifend, turpis quam eleifend justo, vel hendrerit lectus massa 
+quis arcu. Morbi id tortor luctus nisl sollicitudin gravida at vitae dui. 
+Proin quis lacus tempus, mollis enim nec, feugiat dui. Quisque vulputate 
+egestas viverra. In ac pretium tellus. Praesent lacinia pharetra enim, 
+vitae sodales nisi consequat vitae. Praesent tempor, risus ultrices 
+sodales mollis, odio dolor tincidunt eros, ut dictum neque velit in velit. 
+Etiam elementum imperdiet consectetur. Nulla vel magna placerat felis 
+ultrices lacinia non quis massa.
+
+Fusce blandit, enim ac mattis hendrerit, lectus justo mollis quam, vel 
+convallis eros sapien vitae dui. Phasellus bibendum nunc nec nisi iaculis 
+imperdiet. Donec sodales condimentum nibh, at vehicula ligula mollis ac. 
+Aliquam ullamcorper sollicitudin risus quis auctor. Interdum et malesuada 
+fames ac ante ipsum primis in faucibus. Nam ligula metus, accumsan ac 
+feugiat id, eleifend vel diam. Nulla placerat purus ut gravida euismod. 
+Nam in diam consequat, feugiat nunc sit amet, fermentum justo. Vivamus et 
+urna sed tortor tincidunt bibendum quis eget eros. Morbi non interdum 
+orci. Duis aliquet et magna sit amet consectetur.” > story.txt
